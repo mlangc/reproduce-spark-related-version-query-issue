@@ -1,0 +1,7 @@
+__pycache__/
+venv/
+dist/
+*.iml
+build/
+*.egg-info/
+*.tar.gz

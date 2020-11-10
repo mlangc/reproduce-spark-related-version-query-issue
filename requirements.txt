@@ -1,0 +1,4 @@
+setuptools
+wheel
+version-query
+black[d]
