@@ -1,5 +1,5 @@
 # Minimal Example for Spark Related Version Query Bug
-Minimal example that reproduces a [version-query](https://github.com/mbdevpl/version-query) bug, that
+Minimal example that reproduces a [version-query bug](https://github.com/mbdevpl/version-query/issues/7), that
 occurs when the library is invoked from within wheel package in a Spark job.
 
 ## Prerequisites
