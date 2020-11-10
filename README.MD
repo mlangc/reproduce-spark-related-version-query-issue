@@ -1,7 +1,10 @@
-# Minimal Example for Version Query Spark Bug
+# Minimal Example for Spark Related Version Query Bug
+Minimal example that reproduces a [version-query](https://github.com/mbdevpl/version-query) bug, that
+occurs when the library is invoked from within wheel package in a Spark job.
+
 ## Prerequisites
 * Python-3.6 or newer
-* Apache Spark (no cluster needed - a local installation works fine)
+* Apache Spark 2.4.x or newer (no cluster needed - a local installation works fine)
 * Bash
 
 
